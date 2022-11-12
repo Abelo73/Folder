@@ -1,0 +1,3 @@
+notepad text.txt this opens text.txt file from the folder and opens int 
+the notepad editor.
+let's save.
